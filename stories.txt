@@ -19,3 +19,5 @@ You can implement a trivial todo list with lines and checkboxes.
 You can email the underlying Markdown file.
 
 (Stretch) You can email the rendered CSS/HTMl.
+
+(Stretch) Underlying markdown files can be automatically synced to a popular cloud service.
