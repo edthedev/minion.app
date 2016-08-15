@@ -15,3 +15,7 @@ You can search for existing notes using full text search.
 You can sort existing notes into folders very quickly.
 
 You can implement a trivial todo list with lines and checkboxes.
+
+You can email the underlying Markdown file.
+
+(Stretch) You can email the rendered CSS/HTMl.
